@@ -9,12 +9,12 @@
    > `git push -u origin main`  
 
 2. Git访问  
-   > 获取global.ssl.fastly地址  
-   > `http://github.global.ssl.fastly.net.ipaddress.com/#ipinfo`  
-   > 获取Github地址  
-   > `http://github.com.ipaddress.com/#ipinfo`  
-   > 在Hosts文件中添加映射关系，重启  
+   > 查询IP地址网站 `https://www.ipaddress.com/`  
+   > `github.com` 和 `github.global.ssl.fastly.net` IP地址  
+   > 在Hosts文件中添加IP映射关系  
    > `C:\Windows\System32\drivers\etc\hosts`  
+   > 刷新DNS缓存  
+   > `ipconfig /flushdns`  
 
 ## IDEA Spring Initializr
 
