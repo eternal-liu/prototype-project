@@ -9,7 +9,7 @@
    > `git push -u origin main`  
 
 2. Git访问  
-   > 查询IP地址网站 `https://www.ipaddress.com/`  
+   > 查询IP地址网站 `http://tool.chinaz.com/dns/`  
    > `github.com` 和 `github.global.ssl.fastly.net` IP地址  
    > 在Hosts文件中添加IP映射关系  
    > `C:\Windows\System32\drivers\etc\hosts`  
